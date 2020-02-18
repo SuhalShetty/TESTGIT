@@ -1,2 +1,3 @@
-print("changes")
-print("hello")
+add2<-function(x,y){
+  x+y
+}
