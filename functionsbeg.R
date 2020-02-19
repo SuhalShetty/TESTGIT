@@ -15,3 +15,10 @@ columnmean<-function(y,removeNA=T){
   }
   means
 }
+
+
+x<-1:10
+if(x>5){
+  x<-0
+}
+
